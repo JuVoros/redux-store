@@ -7,13 +7,19 @@
 
 
 ## Description
+A Redux store application that does not use GlobalState and instead uses redux. A great way to browse a store and shop with shop-shop!
 
+## Link
+
+https://jv-redux-store.herokuapp.com/
 ## Table of Contents
 1. [Installation](#installation)
 3. [License](#license)
 6. [Questions](#questions)
     
 ## Installation
+
+You can either click on the deployed link and use the site there or clone the repo and run `npm i` for all the dependencies needed and after that just run `npm start` on the client and server files to get it all working!
 
 
 ## License
@@ -37,4 +43,4 @@ SOFTWARE.
 
 ----
 # Questions
-For any questions, send me an email at JulianVoros@Hotmail.com.
+For any questions, send me an email at JulianVoros@Hotmail.com🐼.
